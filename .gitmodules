@@ -1,0 +1,6 @@
+[submodule "online_ide_backend"]
+	path = online_ide_backend
+	url = https://github.com/harshsinghs1058/online_ide_backend
+[submodule "online_ide_frontend"]
+	path = online_ide_frontend
+	url = https://github.com/harshsinghs1058/online_ide_frontend
